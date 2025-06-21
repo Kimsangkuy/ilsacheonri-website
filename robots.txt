@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://USERNAME.github.io/ilsacheonri-website/sitemap.xml
+Sitemap: https://kimcheolgeo.github.io/ilsacheonri-website/sitemap.xml
